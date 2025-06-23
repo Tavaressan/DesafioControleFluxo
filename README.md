@@ -101,7 +101,6 @@ public class ParametrosInvalidosException extends Exception {
 ## Como executar
 
 1. Compile as classes Java:
-2. 
 ```
 javac Contador.java ParametrosInvalidosException.java
 ```
